@@ -1,0 +1,17 @@
+yae\sakuya\mat_server\resources\Menu_resource.class
+yae\sakuya\mat_server\ConnectionFactory.class
+yae\sakuya\mat_server\filters\CORS_Filter.class
+yae\sakuya\mat_server\beans\Rateing_img_bean.class
+yae\sakuya\mat_server\enteties\Food.class
+yae\sakuya\mat_server\beans\User_bean.class
+yae\sakuya\mat_server\enteties\Order.class
+yae\sakuya\mat_server\enteties\Rateing.class
+yae\sakuya\mat_server\resources\Rateing_resource.class
+yae\sakuya\mat_server\beans\Rateing_bean.class
+yae\sakuya\mat_server\enteties\Rateing_img.class
+yae\sakuya\mat_server\resources\Food_resource.class
+yae\sakuya\mat_server\enteties\Users.class
+yae\sakuya\mat_server\beans\Food_bean.class
+yae\sakuya\mat_server\JAXRSConfiguration.class
+yae\sakuya\mat_server\resources\User_resource.class
+yae\sakuya\mat_server\resources\Rateing_img_resource.class
